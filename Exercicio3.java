@@ -7,7 +7,7 @@ public class Exercicio3 {
         Random random = new Random();
         String[] palavras = {"pedra", "papel", "tesoura"};
 
-        System.out.println(" escolha: >> pedra || papel || tesoura");
+        System.out.println(" escolha: > pedra || papel || tesoura");
         String jogoUsuario = input.nextLine();
 
         int indiceAray = random.nextInt(palavras.length);
