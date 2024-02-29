@@ -1,7 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Random;
-import java.util.ArrayList;
 
 public class Exercicio3 {
     public static void main(String[] args) {
