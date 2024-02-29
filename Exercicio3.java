@@ -1,8 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Exercicio3 {tesoura
-    public static void main(String[] args) {
+public class Exercicio3 {      
+        public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Random random = new Random();
         String[] palavras = {"pedra", "papel", "tesoura"};
